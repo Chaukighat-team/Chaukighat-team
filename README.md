@@ -33,7 +33,7 @@ ul.tab li a {
     background-color: #0000ff;
     border: 3px;
     display: inline-block;
-    font-size: 40px;
+    font-size: 42px;
     margin: 3px 1px;
 
 }
