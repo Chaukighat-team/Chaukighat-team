@@ -109,9 +109,9 @@ display: none;
 <h2 class="w3-center">Automatic Slideshow</h2>
 
 <div class="w3-content w3-section" style="max-width:500px">
-  <img class="mySlides" src="img_la.jpg" style="width:100%">
-  <img class="mySlides" src="img_ny.jpg" style="width:100%">
-  <img class="mySlides" src="img_chicago.jpg" style="width:100%">
+  <img class="mySlides" src="http://hdimagesnew.com/wp-content/uploads/2015/10/flowers-8.jpg" style="width:100%">
+  <img class="mySlides" src="http://images.all-free-download.com/images/graphicthumb/hd_flowers_photo_04_hd_picture_169264.jpg" style="width:100%">
+  <img class="mySlides" src="https://s-media-cache-ak0.pinimg.com/originals/3a/5e/f6/3a5ef6e88d0ef3b6fa1c92f40b5a1c4a.jpg" style="width:100%">
 </div>
 
 <script>
