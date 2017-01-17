@@ -1,4 +1,5 @@
-<title>chaukighat-team</title><style>
+<title>chaukighat-team</title>
+  <style>
   
   body  {
     background-image: url("https://s-media-cache-ak0.pinimg.com/originals/4e/3a/ac/4e3aaccc8ee30b316642211e6d510364.jpg");
@@ -33,7 +34,7 @@ ul.tab li a {
     background-color: #0000ff;
     border: 3px;
     display: inline-block;
-    font-size: 42px;
+    font-size: 39.45px;
     margin: 3px 1px;
 
 }
